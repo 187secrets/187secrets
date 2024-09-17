@@ -4,7 +4,7 @@ hi guys this is basically a linktree but weirder bcs who actually uses github
   <h2> my pretties... </h2>
 <ul>
   <li> 
-  <a href="https://esotericasm.straw.page">strawpage </li>
+  <a href="https://esotericartney.straw.page/">strawpage </li>
   <li> 
     <a href= "https://187secrets.neocities.org/">webbed site </li>
   <li>
